@@ -1,0 +1,18 @@
+composer require laravel/ui --dev
+php artisan ui bootstrap --auth
+
+
+
+
+composer require laravel/ui
+php artisan ui:auth
+php artisan serve
+php artisan migrate
+
+composer require laravel/socialite
+
+
+
+https://github.com/settings/apps
+
+php artisan config:cache
